@@ -29,15 +29,8 @@ I am a passionate Game Developer with over 4 years of experience, specializing i
 *A massive collection of 12 distinct mini-games with 2,400+ levels.*
 - **Highlights:** Built custom level editor tools and managed heavy content delivery pipelines.
 - [App Store Link](https://apps.apple.com/tr/app/1001-brain-zen-puzzles/id6449082573)
-<table>
-  <tr>
-    <td><img src="images/brain-zen-puzzles/4.png" width="120" alt="Puzzle 4"></td>
-    <td><img src="images/brain-zen-puzzles/5.png" width="120" alt="Puzzle 5"></td>
-    <td><img src="images/brain-zen-puzzles/2.png" width="120" alt="Puzzle 2"></td>
-    <td><img src="images/brain-zen-puzzles/1.png" width="120" alt="Puzzle 1"></td>
-    <td><img src="images/brain-zen-puzzles/3.png" width="120" alt="Puzzle 3"></td>
-  </tr>
-</table>
+
+### 📦 Archived Projects (Currently not available in any store)
 
 #### 🎰 HCG App (Social Casino Ecosystem)
 *A comprehensive social casino platform featuring multiple synchronized game modules.*
@@ -96,6 +89,7 @@ I am a passionate Game Developer with over 4 years of experience, specializing i
     <td><img src="images/maximalist/4.jpg" width="120" alt="Maximalist 4"></td>
   </tr>
 </table>
+
 #### 🤖 Roboots (NFT / Multiplayer Combat)
 *Automated combat game featuring robot characters with strategic ability (buff) systems.*
 <table>
@@ -107,6 +101,7 @@ I am a passionate Game Developer with over 4 years of experience, specializing i
     <td><img src="images/roboots/5.png" width="300" alt="Roboots 5"></td>
   </tr>
 </table>
+
 #### 🍣 Sushi Master
 *A "build & slot" project featuring custom character animation triggers and reward distribution systems.*
 <table>
@@ -117,6 +112,7 @@ I am a passionate Game Developer with over 4 years of experience, specializing i
     <td><img src="images/sushi-master/3.png" width="120" alt="Sushi Master 3"></td>
   </tr>
 </table>
+
 #### 🐉 Dragon’s Loot
 *Strategic puzzle games combining poker hand mechanics with grid-based board gameplay.*
 <table>
@@ -128,7 +124,8 @@ I am a passionate Game Developer with over 4 years of experience, specializing i
     <td><img src="images/dragon-loot/1.png" width="120" alt="Dragon Loot 1"></td>
   </tr>
 </table>
-#### 🐉 Poker Match
+
+#### 🃏 Poker Match
 *A different skin of Dragon's Loot game.*
 <table>
   <tr>
