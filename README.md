@@ -147,9 +147,3 @@ I am a passionate Game Developer with over 4 years of experience, specializing i
 
 - 📫 **How to reach me:** [murselsenay@gmail.com](mailto:murselsenay@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/murselsenay](https://linkedin.com/in/murselsenay)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murselsenay&show_icons=true&theme=tokyonight" alt="Mürsel's GitHub Stats" />
-</p>
